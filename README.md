@@ -6,12 +6,12 @@
 
 ```grass.py```：生草程序
 
-```lan.txt```：语言序列
+```lang.json```：语言序列
 
 ```grass.txt```：生草文本
 
 注：
 
-第三方库：```google_trans_new```。
+需要的第三方库：```google_trans_new```。
 
 安装命令：```pip install google_trans_new```。
