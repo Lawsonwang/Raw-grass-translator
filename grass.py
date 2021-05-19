@@ -7,7 +7,7 @@ import json
 translator = google_translator()
 
 tmp = None
-with open("lan.txt", encoding='utf-8') as f:
+with open("lang.json", encoding='utf-8') as f:
     tmp = f.read()
 
 tmp = json.loads(tmp)['text']
